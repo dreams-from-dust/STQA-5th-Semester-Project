@@ -14,7 +14,7 @@
 * **UI Automation:** Playwright (Python 3.13)
 * **API Testing:** Postman
 * **Defect Management:** Jira Cloud (Project Key: TQP)
-* **Documentation:** Comprehensive Quality Report, Test Plan and Test Cases, Automation Script, Postman Collection, Jira Reporting Screnshots
+* **Documentation:** Comprehensive Quality Report, Test Plan and Test Cases, Automation Script, Automation Video, Postman Collection, Jira Reporting Screnshots, Requirements Traceability Matrix, Bug Report Document
 
 ## Key Achievements
 - **93.02%** Success Rate across 43 Test Cases.
