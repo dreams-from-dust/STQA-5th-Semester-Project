@@ -13,6 +13,9 @@
 * Saba Shahzad (API Specialist)
 * Hannia Fatima (Test Manager)
 
+## Website Under Test
+* https://practicesoftwaretesting.com/
+
 ## Tech Stack
 * **UI Automation:** Playwright (Python 3.13)
 * **API Testing:** Postman
