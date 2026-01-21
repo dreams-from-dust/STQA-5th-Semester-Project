@@ -4,6 +4,9 @@
 ## Course & Project Supervisor
 * Mr. Faisal Hafeez
 
+## Group Leader
+* Areej Fatima 
+
 ## Project Team
 * Khadija Zafar (QA Lead)
 * Areej Fatima (Automation Engineer)
@@ -14,7 +17,20 @@
 * **UI Automation:** Playwright (Python 3.13)
 * **API Testing:** Postman
 * **Defect Management:** Jira Cloud (Project Key: TQP)
-* **Documentation:** Comprehensive Quality Report, Test Plan and Test Cases, Automation Script, Automation Video, Postman Collection, Jira Reporting Screnshots, Requirements Traceability Matrix, Bug Report Document
+
+## Documentation
+ * Test Plan Document
+ * Manual Test Cases
+ * Automation Test Cases
+ * API Testing Test Cases
+ * Automation Script
+ * Automation Video
+ * Automation Result HTML Report
+ * Postman Collection
+ * Jira Reporting Screnshots
+ * Requirements Traceability Matrix
+ * Bug Report Document
+ * Comprehensive Quality Report
 
 ## Key Achievements
 - **93.02%** Success Rate across 43 Test Cases.
